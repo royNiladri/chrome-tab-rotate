@@ -1,0 +1,11 @@
+{
+    "name": "Tab Rotate",
+    "version": "1.0",
+    "description": "Roate tabs at a set interal",
+    "permissions": ["tabs"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "manifest_version": 2
+}
