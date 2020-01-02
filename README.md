@@ -2,7 +2,7 @@
 1. Copy the contents of dist to a folder of your choice
 2. Go to chrome://extensions/
 3. Enable `developer mode` (top right corner)
-4. Click `:oad Unpacked` (top left corner)
+4. Click `load Unpacked` (top left corner)
 5. Navigate to the folder you set and enjoy
 
 # Note
