@@ -1,5 +1,5 @@
 # Usage
-1. Copy the contents of dist to a folder of your choice
+1. Copy the contents of dist to an empty folder of your choice
 2. Go to chrome://extensions/
 3. Enable `developer mode` (top right corner)
 4. Click `load Unpacked` (top left corner)
